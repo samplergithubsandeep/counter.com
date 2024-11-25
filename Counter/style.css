@@ -1,0 +1,9 @@
+.counter{
+     font-weight: bold;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#zero{
+    font-size:large;
+    font-weight: bold;
+}
